@@ -1,4 +1,4 @@
-# Survey Form Project
+# Tribute Page Project
 
 A simple survey form built as part of the **freeCodeCamp Responsive Web Design** certification.  
 This project demonstrates usage of HTML5 form elements, labels, inputs, validation, and basic CSS styling.
@@ -7,7 +7,7 @@ This project demonstrates usage of HTML5 form elements, labels, inputs, validati
 
 ## 🚀 Demo
 
-🔗 [View Live Demo](https://dan-1305.github.io/survey-form/)
+🔗 [View Live Demo](https://dan-1305.github.io/Tribute-page/)
 
 ---
 
